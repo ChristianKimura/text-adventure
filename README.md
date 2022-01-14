@@ -1,4 +1,5 @@
 # Text-Adventure
 
-Using inquirer and javascript constructors to make a small text-based rpg.
+XXXXXXUsing inquirer and javascript constructors to make a small text-based rpg.
 
+Will be changing this to work with html and save the answers somewhere else.
